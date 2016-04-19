@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'O QUE SOU EU? A evolução épica o processo onde a natureza tenta se adaptar, ressoar, vibrar, com o meio ambiente (muito além do carbono, apesar dessa set a matéria com a vibração mais complexa conhecida por nós). Ao fazer isso a natureza evoluiu a um ponto onde se tornou senciente e começou a questionar sua própria existência. Quando uma pessoa está em frente do paradoxo de querer propósito na v'
-datePublished: '2016-04-19T00:26:08.205Z'
-dateModified: '2016-04-19T00:26:07.222Z'
+description: 'Eu sou Buda, sou poeira, vibração! Sou o Sol, A Lua e as Estrelas. Sou o Tempo e o Silêncio. Sou Krishna, um Avatar, O Samurai que caminha sozinho. Sou Epicúro, Mahavira(Grande Guerreiro) , Maharaja derrotado, um Mahaatma (grande espírito) , Jesus, Hermes, Imhotep,Tuthankhamon, Pacal, Wiracocha, Apolo. Sou Freud sou Lacquan sou o outro, sou você! Sou kierkegaard a beira do precipício, sou Confúcio'
+datePublished: '2016-04-19T00:44:54.758Z'
+dateModified: '2016-04-19T00:44:40.031Z'
 title: ''
 author: []
 authors: []
@@ -22,17 +22,11 @@ url: o-que-sou-eu/index.html
 _type: Article
 
 ---
-O QUE SOU EU? A evolução épica o processo onde a natureza tenta se adaptar, ressoar, vibrar, com o meio ambiente (muito além do carbono, apesar dessa set a matéria com a vibração mais complexa conhecida por nós). Ao fazer isso a natureza evoluiu a um ponto onde se tornou senciente e começou a questionar sua própria existência. Quando uma pessoa está em frente do paradoxo de querer propósito na v
+Eu sou Buda, sou poeira, vibração! Sou o Sol, A Lua e as Estrelas. Sou o Tempo e o Silêncio. Sou Krishna, um Avatar, O Samurai que caminha sozinho. Sou Epicúro, Mahavira(Grande Guerreiro) , Maharaja derrotado, um Mahaatma (grande espírito) , Jesus, Hermes, Imhotep,Tuthankhamon, Pacal, Wiracocha, Apolo. Sou Freud sou Lacquan sou o outro, sou você! Sou kierkegaard a beira do precipício, sou Confúcio
 
-ida enquanto pensa que a existência humana é sem sentido, a dissonância cognitiva ocorre, causando imensas dores,vazios existenciais. Ao longo da história, isso levou a nós humanos, procuramos por guias religiosos e espirituais,desafiando a ciência, enquanto ela continua a falhar em nós dar respostas para : O QUE SOU EU, POR QUE ESTAMOS AQUI.
+, Schopenhauer e seus cachorros, os arquétipos de Jung! Um físico quântico e um monge tibetano, um guerreiro cujo o escudo se chama Missão, uma biblioteca inteira! Sou a grama, o vento que dobra as árvores, os animais, a natureza e o cosmos e o caos! Meu nome é curiosidade, gratidão, compaixão. Eu sou a música! Um mártir, sou boêmio, Dionísio, sou Baco e todos seus personagens. Sou a arte, eu sou Jim e sou Raul! Hamlet segurando o crânio (Eis a questão). Ontem, hoje e amanhã, o início o fim e o meio. Sou a chama que arde no seu peito, aquele abraço apertado, o herói que vence a sí mesmo, eu sou o daime, eu sou tudo tudo tudo tudo tudo, eu sou amor amor amor amor amor amor amor eu sou AMOR! Tudo que existe! Tudo que eu quiser! Eu sou néctar, a luz da manhã, a lotús que cresce pura e linda ainda que vivendo essa existência juramentada a poeira. O eu não sou eu.
 
-Meus caros amigos, o sentido da vida é dar sentido a ela!
+escolhas, escolhas , escolhas...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24af29d4-b888-4305-955f-204d7cdef2ab.jpg)
 
-Pensamentos atraem coisas, onde nada havia, hoje muito há! Onde houve pensamentos hoje há mundos! O que eu sonhei, você realizará !
-
-Chegou a hora de vibrar, transcender, essa é a ordem natural do universo, vibrar!
-
-E que seja com amor!
-
-Nada é por acaso.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9859493-6762-4e58-bbb3-cdb6629f9b58.jpg)
+Infinitos Multiversos.
