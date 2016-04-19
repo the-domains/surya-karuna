@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '“Os destinos guiam quem os aceita, arrastam quem a eles resiste.” Sêneca - em Cartas a Lucílio'
-datePublished: '2016-04-19T00:09:58.913Z'
-dateModified: '2016-04-19T00:09:47.027Z'
+datePublished: '2016-04-19T00:12:33.148Z'
+dateModified: '2016-04-19T00:12:19.770Z'
 title: ''
 author: []
 authors: []
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 "Os destinos guiam quem os aceita, arrastam quem a eles resiste." Sêneca - em Cartas a Lucílio
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ac62d29-b3d6-47df-b207-cdb26d80deea.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4578442-4f81-4443-861b-c1d9e1cc9e1f.jpg)
