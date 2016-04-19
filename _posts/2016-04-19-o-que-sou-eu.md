@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Eu sou Buda, sou poeira, vibração! Sou o Sol, A Lua e as Estrelas. Sou o Tempo e o Silêncio. Sou Krishna, um Avatar, O Samurai que caminha sozinho. Sou Epicúro, Mahavira(Grande Guerreiro) , Maharaja derrotado, um Mahaatma (grande espírito) , Jesus, Hermes, Imhotep,Tuthankhamon, Pacal, Wiracocha, Apolo. Sou Freud sou Lacquan sou o outro, sou você! Sou kierkegaard a beira do precipício, sou Confúcio'
-datePublished: '2016-04-19T00:53:35.256Z'
-dateModified: '2016-04-19T00:53:03.132Z'
+datePublished: '2016-04-19T00:55:58.733Z'
+dateModified: '2016-04-19T00:53:36.418Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-o-que-sou-eu.md
