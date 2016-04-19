@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Surya Karuna]]></title>
         <description><![CDATA[Surya Karuna]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/surya-karuna/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 00:06:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 00:08:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/surya-karuna/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e395ee9-70b1-48bc-b801-b23a10b80204.jpg">]]></description>
+            <link>https://thegrid.ai/surya-karuna/listen-real-poetry-doesnt-say-anything-it-just-ticks-off/index.html</link>
+            <guid isPermaLink="false">802bdbf4-ad3c-4644-980c-8c3062f32faf</guid>
+            <pubDate>Tue, 19 Apr 2016 00:08:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c07241c4-8d88-49bd-acbb-b0a2846d2ead.gif">]]></description>
-            <link>undefinedthe-most-important-kind-of-freedom-is-to-be-what-you-really/index.html</link>
+            <link>https://thegrid.ai/surya-karuna/the-most-important-kind-of-freedom-is-to-be-what-you-really/index.html</link>
             <guid isPermaLink="false">7c5c5b9f-69dd-452d-8c80-740a9e3b83f0</guid>
             <pubDate>Tue, 19 Apr 2016 00:06:34 GMT</pubDate>
         </item>
