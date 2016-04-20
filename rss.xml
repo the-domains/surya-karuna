@@ -4,7 +4,7 @@
         <description><![CDATA[Surya]]></description>
         <link>https://thegrid.ai/surya-karuna/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 00:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 03:25:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/surya-karuna/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[O que sou eu]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/surya-karuna/o-que-sou-eu/index.html</link>
             <guid isPermaLink="false">3cfd9b3d-cf5e-4ae8-a5e3-d96bcaf3b939</guid>
             <pubDate>Tue, 19 Apr 2016 00:55:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad6cc9b1-c6e6-43b5-afb2-c89f98cd1673.jpg">]]></description>
+            <link>https://thegrid.ai/surya-karuna/quando-eu-era-jovem-e-livre-minha-imaginacao-nao-tinha-limi/index.html</link>
+            <guid isPermaLink="false">f306f853-9f76-4068-a825-4e7f426caf82</guid>
+            <pubDate>Wed, 20 Apr 2016 03:25:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/surya-karuna/listen-real-poetry-doesnt-say-anything-it-just-ticks-off/index.html</link>
             <guid isPermaLink="false">802bdbf4-ad3c-4644-980c-8c3062f32faf</guid>
             <pubDate>Tue, 19 Apr 2016 00:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c07241c4-8d88-49bd-acbb-b0a2846d2ead.gif">]]></description>
-            <link>https://thegrid.ai/surya-karuna/the-most-important-kind-of-freedom-is-to-be-what-you-really/index.html</link>
-            <guid isPermaLink="false">7c5c5b9f-69dd-452d-8c80-740a9e3b83f0</guid>
-            <pubDate>Tue, 19 Apr 2016 00:06:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
