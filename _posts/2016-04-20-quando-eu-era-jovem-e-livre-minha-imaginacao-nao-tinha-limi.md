@@ -6,18 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: '"Quando eu era jovem e livre minha imaginação não tinha limites, e eu sonhava em mudar o mundo. Enquanto eu envelhecia e ficava velho, eu descobri que o mundo não iria mudar, então eu abaixei minha visão e decidi mudar somente o meu país.'
-datePublished: '2016-04-20T03:25:12.765Z'
-dateModified: '2016-04-20T03:24:58.743Z'
+datePublished: '2016-04-20T03:31:51.138Z'
+dateModified: '2016-04-20T03:25:22.886Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-20-quando-eu-era-jovem-e-livre-minha-imaginacao-nao-tinha-limi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-quando-eu-era-jovem-e-livre-minha-imaginacao-nao-tinha-limi.md
-published: true
 url: quando-eu-era-jovem-e-livre-minha-imaginacao-nao-tinha-limi/index.html
 _type: Article
 
